@@ -18,13 +18,11 @@ This study explores **tumor evolution** using a **3D simulation model** of growi
 /Glass-to-Fluid-Solid-tumors
 │── code/         # MATLAB & Python scripts for simulations
 │   ├── matlab/   # MATLAB-specific scripts
-│   ├── python/   # Python-specific scripts
-│── data/         # Processed simulation data
+│── data_analysis_scripts/         # Processed simulation data
 │── results/      # Figures, plots, and animations
 │── videos/       # Embedded simulation movies
 │── README.md     # Project documentation
 │── LICENSE       # Licensing information
-│── references/   # Supporting research papers
 ```
 
 
